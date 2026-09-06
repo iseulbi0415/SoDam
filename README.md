@@ -1,4 +1,14 @@
-<h1>소담(SoDam) — 소화 안심 타이머<img src="ios/HealthProject/HealthProject/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" align="right" width="90" alt="소담 앱 아이콘"></h1>
+<table>
+<tr>
+<td width="110">
+<img src="ios/HealthProject/HealthProject/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" width="90" alt="소담 앱 아이콘">
+</td>
+<td>
+<h1>소담(SoDam) — 소화 안심 타이머</h1>
+<p>끼니의 총 지방량으로 소화 대기 시간을 정하던 iOS 앱</p>
+</td>
+</tr>
+</table>
 
 역류성 식도염(위식도역류질환, GERD)이 있는 사람이 **"이 끼니를 먹었으면 몇 시간을
 기다려야 하는가"**를 판단할 수 있게 돕던 iOS 앱입니다.
