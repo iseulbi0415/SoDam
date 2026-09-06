@@ -1,11 +1,11 @@
 <table>
 <tr>
-<td align="center" valign="middle" width="110">
-<img src="ios/HealthProject/HealthProject/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" width="90" height="90" alt="소담 앱 아이콘">
+<td width="110">
+<img src="ios/HealthProject/HealthProject/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" width="90" alt="소담 앱 아이콘">
 </td>
-<td align="left" valign="middle">
+<td>
 <h1>소담(SoDam) — 소화 안심 타이머</h1>
-끼니의 총 지방량으로 소화 대기 시간을 정하던 iOS 앱
+<p>끼니의 총 지방량으로 소화 대기 시간을 정하던 iOS 앱</p>
 </td>
 </tr>
 </table>
