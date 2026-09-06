@@ -1,4 +1,4 @@
-# health-project — 프로젝트 개요 (Claude Code용 컨텍스트)
+# SoDam — 프로젝트 개요 (Claude Code용 컨텍스트)
 
 ## 프로젝트 목표
 명지대학교 '2026년도 제5회 창의적 SW프로그램 경진대회' SW프로그램 개발 부문 출품작.
@@ -33,7 +33,7 @@
 - **백엔드**: Spring Boot (Maven, Java 17, Spring Web + JPA + MySQL Driver + Lombok + Security + OAuth2 Client), `backend/` 서브폴더
 - **DB**: MySQL (`health_project`), Homebrew로 설치
 - **인증**: 카카오 소셜 로그인 (Spring Security OAuth2 Client, 세션 기반)
-- **버전관리**: GitHub (`iseulbi0415/health-project`)
+- **버전관리**: GitHub (`iseulbi0415/SoDam`)
 - **에디터**: VS Code(프론트) + IntelliJ(백엔드)
 
 ## 현재 진행 상황 (2026-07-19 기준)
@@ -48,8 +48,7 @@
 
 ## 제출 전 정리 백로그 (대회 마감 전 최종 단계에서 처리, 지금 당장 안 해도 됨)
 - mockup_D_final.html 등 확정 전 디자인 목업 파일 삭제
-- GitHub 저장소 이름 및 로컬 프로젝트 폴더명을 health-project보다 발표용에 어울리는 이름으로 변경
-  (변경 시 로컬 git remote URL과 이 CLAUDE.md에 적힌 경로도 같이 수정 필요)
+- [x] GitHub 저장소 이름 및 로컬 프로젝트 폴더명을 health-project에서 SoDam으로 변경 완료 (로컬 git remote URL·CLAUDE.md 경로 갱신 완료)
 - 추천 타이밍: 7/26~29 디자인 수정 또는 8/1~7 문서화 단계
 
 ## 알려진 이슈 / 백로그
